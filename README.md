@@ -1,2 +1,7 @@
 # My-Resume
-Created a resume using css,html and bootstrap.
+This is basically a sample template for resume.
+
+# Technologies Used
+- HTML
+- CSS
+- BOOTSTRAP
